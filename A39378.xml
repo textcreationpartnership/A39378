@@ -1,0 +1,442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vindiciae quorundam Roberti Barclaii noematum contra aliquas argumentationes in eo libro cui titulus est Antibarclaius ubi reperitur elucidatio veritatis de immediata &amp; interna Revelatione, de Scripturis, de universali redemptione / Edm. Elisio = A vindication of some sentiments of Robert Barclay against the arguments of a book entituled Antibarclaius : wherein the truth of immediate and inward Revelation, of the Scriptures, of universal redemption is further explained / by Edm. Elys.</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39378</idno>
+            <idno type="STC">Wing E700</idno>
+            <idno type="STC">ESTC R27166</idno>
+            <idno type="EEBO-CITATION">09681711</idno>
+            <idno type="OCLC">ocm 09681711</idno>
+            <idno type="VID">43979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1330:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vindiciae quorundam Roberti Barclaii noematum contra aliquas argumentationes in eo libro cui titulus est Antibarclaius ubi reperitur elucidatio veritatis de immediata &amp; interna Revelatione, de Scripturis, de universali redemptione / Edm. Elisio = A vindication of some sentiments of Robert Barclay against the arguments of a book entituled Antibarclaius : wherein the truth of immediate and inward Revelation, of the Scriptures, of universal redemption is further explained / by Edm. Elys.</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.N.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Latin and English in facing columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barclay, Robert, 1648-1690.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Inner Light.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43979:1" rendition="simple:additions"/>
+            <p>VINDICIAE QUORUNDAM Roberti Barclaii Noematum, Contra aliquas ARGUMENTATIONES In eo Libro, cui Titulus eſt ANTIBARCLAIUS: UBI Reperitur Elucidatio Veritatis, de Immediata &amp; Interna Reve<g ref="char:EOLhyphen"/>latione, de Scripturis, de Univerſali Redemptione.</p>
+            <p>
+               <hi>EDM. ELISIO,</hi> Eccl. <hi>Ang.</hi> Praesb.</p>
+            <q>Magna eſt Veritas, &amp; praevalebat.</q>
+            <q>Ὁ Θεὸς φῶς εστι, και Σκοτία ἐν Ἀυτῷ οὐκ ἐστιν Ουδεμία.</q>
+            <p>A Vindication of ſome Sentiments of ROBERT BARCLAY, Againſt the Arguments of a Book, Entituled ANTIBARCLAIUS: Wherein the Truth of <hi>Immediate</hi> and <hi>Inward Revelation,</hi> of the <hi>Scriptures,</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Redemption,</hi> is fur<g ref="char:EOLhyphen"/>ther <hi>Explained.</hi>
+            </p>
+            <p>By <hi>EDM. ELYS,</hi> a Miniſter of the Church of <hi>England.</hi>
+            </p>
+            <q>
+               <hi>Great is the Truth, and it will prevail.</hi>
+            </q>
+            <q>
+               <hi>God is Light, and there is no Darkneſs in him.</hi>
+            </q>
+            <p>Printed for <hi>T. N.</hi> in <hi>George-Yard</hi> in <hi>Lombard-Street.</hi> 1693.</p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:43979:2"/>
+            <pb facs="tcp:43979:2"/>
+            <head>
+               <hi>The</hi> TRANSLATOR <hi>to the</hi> READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THIS ſhort Latin Treatiſe being ſent to a Relation of mine in Manuſcript, and the Author being a Grave Eccleſiaſtick of the Church of <hi>England;</hi> I was willing to Tranſlate it, and make it publick, that the Members of that Church may ſee the moſt con<g ref="char:EOLhyphen"/>ſiderable Principles of the People called <hi>Quakers</hi> acknowledged and defended by a Learned and Religious Miniſter of their own. I will not anſwer for the Elegancy, but may for the Truth of the Tran<g ref="char:EOLhyphen"/>ſlation. Which is, I hope, enough to excuſe, with the Candid, the firſt undertaking, of this ſort, of,</p>
+            <closer>
+               <salute>READER,</salute>
+               <signed>Thy well wiſher <hi>S. P.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="author_to_John_Norris">
+            <div type="version">
+               <head>
+                  <hi>Spectabili Viro,</hi> Joanni Norriſio Edmundus Eliſius. S.</head>
+               <p>T<g ref="char:V">Ʋ</g> mihi videris, Erudite vir, aliquatenus Errare in Opi<g ref="char:EOLhyphen"/>nione Tua de iſto hominum genere, qui vulgo <hi>QUAKERI</hi> vocantur. Ego quidem <hi>Incoctum generoſo pectus Honeſto</hi> in Plurimis eo<g ref="char:EOLhyphen"/>rum videre mihi videor.</p>
+               <pb facs="tcp:43979:3"/>
+               <p> Per L<g ref="char:V">Ʋ</g>MEN INTERN<g ref="char:V">Ʋ</g>M Praecipue Intelligunt SPIRIT<g ref="char:V">Ʋ</g>M <hi>Veritatis</hi> Propter Merita PAS<g ref="char:EOLhyphen"/>SIONIS, &amp; per Efficaciam IN<g ref="char:EOLhyphen"/>TERCESSIONIS Domini noſtri JES<g ref="char:V">Ʋ</g> CHRISTI ſe Omnibus Offerentem adeo ut Anima, <hi>Verita<g ref="char:EOLhyphen"/>tis Sanctificantis</hi> Avida nunquam non poſſit Eandem adipiſci.</p>
+               <p>Si Mecum non Contentias in Defenſione <hi>R. BARCLAII</hi> in hiſce Chartis Tibi exorbita, Scrip<g ref="char:EOLhyphen"/>ta aliqua a Te <hi>Oppoſitio</hi> Mihi erit gratiſſima. </p>
+               <closer>
+                  <salute>Vale</salute>
+               </closer>
+            </div>
+            <div type="version">
+               <pb facs="tcp:43979:2"/>
+               <head>
+                  <hi>To the Worthy,</hi> John Norris.</head>
+               <p>IT ſeemeth to me, Learned Friend, that thou ſomewhat miſtakeſt in thy Opinion concern<g ref="char:EOLhyphen"/>ing the People, vulgarly cal<g ref="char:EOLhyphen"/>led <hi>Quakers.</hi> Methinks I ſee a right honeſt Mind in many of them.</p>
+               <pb facs="tcp:43979:3"/>
+               <p> By the <hi>Light within</hi> they chie<g ref="char:EOLhyphen"/>fly underſtand the <hi>Spirit of Truth,</hi> as the fruit of the merits of the paſſion and efficacy of the Inter<g ref="char:EOLhyphen"/>ceſſion of our Lord <hi>Jeſus Chriſt,</hi> for the good of all; that the Soul which thirſts after the San<g ref="char:EOLhyphen"/>ctifying Truth might be fill'd with it.</p>
+               <p>If what I here preſent thee, in theſe following Sheets, in defence of <hi>R. Barclay,</hi> is not agreeable with thy Sentiments, it would obblige me much to ſee thy Ob<g ref="char:EOLhyphen"/>jections. </p>
+               <closer>
+                  <salute>Farewel</salute> 
+                  <signed>Edmund Elys.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="to_the_candid_reader">
+            <div type="version">
+               <head>Candido Lectori.</head>
+               <p>SCias velim, Amice Lector, Annotationum iſtarum Au<g ref="char:EOLhyphen"/>thorem iſtiuſmodi hominem eſſe, qui Doctrinam Coeleſtem avide Amplectitur, <g ref="char:V">Ʋ</g>bicun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> illa occurrit, à quocunque Hominum quorunque modo Explicata. Huic liquido conſtat neminem unquam percepiſſe <hi>Veritatem Evangelicam,</hi> niſi per Verum <hi>Charitatis</hi> Exercitium Notionum Illi omnium Fons, &amp; Origo eſt Noema illud, Ὡ ΘΕΌΣ ἈΓΆΠΗ ἘΣΤῚ.</p>
+            </div>
+            <div type="version">
+               <head>To the Candid Reader.</head>
+               <p>I Would have Thee know (friendly <hi>Reader)</hi> that the Author of theſe Annotations, is a Man who moſt heartily em<g ref="char:EOLhyphen"/>braceth the Heavenly Doctrine whereſoever he meets it, and by <hi>what ſort of Men or Manner ſoe<g ref="char:EOLhyphen"/>ver</hi> it be explained. He alſo ſees plainly, that no Man hath ever obtained the <hi>Evangelical Truth,</hi> without the true practice of <hi>Charity.</hi> And this Princi<g ref="char:EOLhyphen"/>ple <hi>God is Love,</hi> is the Spring of all his Religion.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <div xml:lang="lat" type="version">
+                  <pb n="1" facs="tcp:43979:3"/>
+                  <head>De Immediata &amp; interna Reve<g ref="char:EOLhyphen"/>latione.</head>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>ANTIBARCLAIUS <hi>P.</hi> 33.</bibl> A<g ref="char:EOLhyphen"/>pologetes in genere quidem ſcripſit, Patres una voce, adjudicaſſe nullam Dei cognitionem certam, &amp; veram eſſe, niſi quae intus reve<g ref="char:EOLhyphen"/>letur Spiritu ejus: Revelatione ni<g ref="char:EOLhyphen"/>mirum, inquit Author ANTI<g ref="char:EOLhyphen"/>BARCLAII, Immediata &amp; Pe<g ref="char:EOLhyphen"/>culiari, ſive cuivis Propria.</q>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> Imo, Vir Doctiſſime, cuivis Propria: ſed non aliter, quam uni<g ref="char:EOLhyphen"/>cuique Propria eſt ad unumquemque pertingens Affulgentia, ſeu Lux ab unoquoque Participata SOLIS Splen<g ref="char:EOLhyphen"/>dentis Lucis nimirum, Omnibus Creaturis, quae Videndi Facultate praeditae ſunt, Communis, ſed ab Unaquaque actu Participatae ſecun<g ref="char:EOLhyphen"/>dum Peculiarem Cujuſque Actu<g ref="char:EOLhyphen"/>alem ipſius Videndae Capacitatem.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 46.</bibl>—Nulla plane facta men<g ref="char:EOLhyphen"/>tione ullius Immediatae Revelatio<g ref="char:EOLhyphen"/>nis, quam omittere nullatenus de<g ref="char:EOLhyphen"/>buit, ſi tanta ejus fuiſſet neceſſitas, quantam Apologetes hodie, cum ſuis ſectatoribus urget, atque prae<g ref="char:EOLhyphen"/>tendit.</q>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> Non urget, atque praeten<g ref="char:EOLhyphen"/>dit neceſſitatem Immediatae Reve<g ref="char:EOLhyphen"/>lationis alicujus Rei, niſi quae jam Revelata eſt in S. Scripturis. Sed neceſſariam eſſe aſſerit Immediatam Revelationem, ſeu actualem Spiritus Sancti Operationem in Animis no<g ref="char:EOLhyphen"/>ſtris, ut Rite Percipiamus veritatem Sanctificantem in ipſis Scripturis Re<g ref="char:EOLhyphen"/>velatam.</p>
+                  <p rend="margSglQuotes">
+                     <pb n="2" facs="tcp:43979:4"/>
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 87.</bibl> Studet Lectori perſua<g ref="char:EOLhyphen"/>dere has Revelationes Immediatas, &amp; Internas fuiſſe olim Formale Ob<g ref="char:EOLhyphen"/>jectum Fidei Sanctorum.</q>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> Aequiſſimum eſt hoc ejus ſtu<g ref="char:EOLhyphen"/>dium: Per Formale objectum intelli<g ref="char:EOLhyphen"/>git Idipſum, quod per FIDEM <hi>In<g ref="char:EOLhyphen"/>tellectu</hi> Perceptum Percipientes San<g ref="char:EOLhyphen"/>ctos reddit, nempe DEO in Ani<g ref="char:EOLhyphen"/>mis eorum immediate Operanti ſi<g ref="char:EOLhyphen"/>miles.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 124.</bibl> Ad quid inquit <hi>Anti-Barclaista,</hi> Perpetuitas Promiſſi Spiritus ad Novitatem Revelatio<g ref="char:EOLhyphen"/>num?</q>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> Ad Mentes noſtras jugiter Renovandas per <hi>Spiritum Sanctum</hi> ju<g ref="char:EOLhyphen"/>giter opus eſt nobis Novis Revelati<g ref="char:EOLhyphen"/>onibus, ſeu Operationibus Spiritus Sancti Mentibus noſtris Revelantis <hi>Veritatem Sanctificantem,</hi> cujuſmodi Revelatio ſemper fit <hi>ſecundum S. Scrip<g ref="char:EOLhyphen"/>turas:</hi> Saepiſſime tamen ſine ulla <hi>Vocum Scriptarum</hi> in memoriam revocatione.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 156.</bibl> Quando, <hi>Pſ.</hi> 34. 9. cun<g ref="char:EOLhyphen"/>ctos Fideles hortatur ut Guſtent, &amp; Videant quam bonus, &amp; ſuavis ſit Dominus, neſcio quid Apologetes habuerit in animo, ut hiſce verbis abuſeretur, cum in <hi>Pſalmo</hi> hoc Re<g ref="char:EOLhyphen"/>gius Vates ne minimam fecerit men<g ref="char:EOLhyphen"/>tionem ſuarum a Deo Revelatio<g ref="char:EOLhyphen"/>num, ſed aliorum potius Beneficio<g ref="char:EOLhyphen"/>rum, quorum tempore Exilii a fa<g ref="char:EOLhyphen"/>cie Regis <hi>Saul</hi> particeps factus eſt, in Deo ſcilicet confidens; unde &amp; eos praedicat beatos, qui in quavis afflictione in eo fiduciam ponere di<g ref="char:EOLhyphen"/>dicerunt.</q>
+                  </p>
+                  <pb n="3" facs="tcp:43979:4"/>
+                  <p> 
+                     <hi>Reſp.</hi> Haec verba <hi>Guſtare,</hi> &amp; <hi>Vi<g ref="char:EOLhyphen"/>dere</hi> manifeſte ac indubie Significant <hi>Senſationem,</hi> ſeu actualem Notitiam ſenſitivam, vel Intellectivam Rei Praeſentis, id eſt, Corporis, vel Ani<g ref="char:EOLhyphen"/>mi ſenſibus ſe Immediate ingerentis, non Traditae <hi>tantum per alios,</hi> qui eam <hi>Guſtarunt,</hi> vel <hi>Viderunt.</hi> Iſti<g ref="char:EOLhyphen"/>uſmodi <hi>Senſatio,</hi> ſeu <hi>Immediata Perceptio</hi> Suavitatis Divinae fieri nequit, niſi per Immediatam <hi>Spi<g ref="char:EOLhyphen"/>ritus Sancti</hi> in animis noſtris <hi>Ope<g ref="char:EOLhyphen"/>rationem Sanctificantem,</hi> cujuſmodi omnes <hi>Spiritus Sancti, Lucis</hi> nimirum <hi>Immenſae</hi> Operationes recte vocantur Immediatae Revelationes, nempe iſti<g ref="char:EOLhyphen"/>uſmodi Illuminationes, quibus iſtae fugantur Tenebrae, quae nos impedi<g ref="char:EOLhyphen"/>erunt, quo minus <hi>res ipſas Divinas</hi> a <hi>Spiritu Sancto</hi> nobis (in Legendis, vel Audiendis <hi>Scripturis,</hi> vel ſine ulla <hi>Vocum Scriptarum</hi> Recordatione) Pro<g ref="char:EOLhyphen"/>poſitas Immediate Perſpicere poſſi<g ref="char:EOLhyphen"/>mus.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 158.</bibl> Id forte aliquam vide<g ref="char:EOLhyphen"/>tur habere difficultatem, quod A<g ref="char:EOLhyphen"/>pologetes etiam in primis hic &amp; ali<g ref="char:EOLhyphen"/>bi urget: quando 1 <hi>Joannes Cap.</hi> 5. <hi>v.</hi> 6. ſcripſit poſt alia, <hi>Spiritus eſt, qui Teſtatur, quod Spiritus Veritas eſt.</hi> Ve<g ref="char:EOLhyphen"/>rum, ſi hic etiam, inquit Vir Eruditus, Apoſtoli mentem ex integro Textu rite attendamus, nihil aliud Eum auditoribus voluiſſe ad animum vo<g ref="char:EOLhyphen"/>care obſervabimus, quam quod Spi<g ref="char:EOLhyphen"/>ritus Sanctus, <hi>&amp;c.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <hi>Reſp. Nihil aliud!</hi> Certe voluit hoc ipſum ad animum vocare, quod <hi>Rober<g ref="char:EOLhyphen"/>tus Barclaius</hi> Probare velit nempe o<g ref="char:EOLhyphen"/>pus eſſe nobis Immediata Revelatio<g ref="char:EOLhyphen"/>ne,
+<pb n="4" facs="tcp:43979:5"/> ſeu Teſtimonio <hi>Spiritus Sancti</hi> in Cordibus noſtris, ut firmiter, ac Practice aſſentiamur <hi>Veritati Evange<g ref="char:EOLhyphen"/>licae;</hi> quia <hi>Spiritus</hi> eſt Omnis Veritatis Principium, adeo ut nulla eſſe poſ<g ref="char:EOLhyphen"/>ſit vera, &amp; viva veritatis Coeleſtis Notitia, niſi quae derivetur ab ipſo <hi>Spiritu Sancto</hi> in Cordibus noſtris O<g ref="char:EOLhyphen"/>perante. Quaecunque Impiis homi<g ref="char:EOLhyphen"/>nibus, ſeu veram Sanctitatem aver<g ref="char:EOLhyphen"/>ſantibus contingit Rerum Divinarum Notitìa, ſeu Cognitio, revera nihil aliud eſt, quam quod Apoſtolus ap<g ref="char:EOLhyphen"/>pellat <hi>Rom.</hi> 2. 20. τὴν Μόρφωσιν τῆς Γνωσεως, <hi>Formam, ſeu Imaginationem Cognitio<g ref="char:EOLhyphen"/>nis.</hi>
+                  </p>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <pb n="1" facs="tcp:43979:3"/>
+                  <head>Of Immediate and inward Reve<g ref="char:EOLhyphen"/>lation.</head>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>ANTIBARCLAIUS. <hi>P.</hi> 33.</bibl> The Apologiſt writes in general, That the Fathers have concluded with one voice, <hi>That there was no true and certain knowledge of God, but that which is revealed inwardly by his own ſpirit:</hi> By a revelation, as the Author of ANTIBARCLAIUS ſays, <hi>immediate</hi> and <hi>particular</hi> or proper to any one.</q>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> Even ſo, moſt Learned Sir, proper to any one: <hi>But not other<g ref="char:EOLhyphen"/>wiſe than as all partake of the light of the Sun.</hi> The Light is common to all Creatures, who are indued with ſight, but every one actually par<g ref="char:EOLhyphen"/>takes of it according to the actual capacity he hath of ſeeing it.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 46.</bibl> No mention having been made of any immediate Revelation, which he by no means ought to have omitted, if it had been ſo ne<g ref="char:EOLhyphen"/>ceſſary as the Apologiſt and his followers urge and pretend.</q>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> He neither urges nor pre<g ref="char:EOLhyphen"/>tends the neceſſity of an immediate Revelation of <hi>any other thing,</hi> but what is <hi>already</hi> revealed in the Holy Scriptures. But he affirms that <hi>Im<g ref="char:EOLhyphen"/>mediate Revelation,</hi> or the actual Ope<g ref="char:EOLhyphen"/>rations of the Holy Ghoſt in our hearts, is <hi>neceſſary</hi> that we may right<g ref="char:EOLhyphen"/>ly perceive the ſanctifying truth, de<g ref="char:EOLhyphen"/>clared by thoſe Scriptures.</p>
+                  <p rend="margSglQuotes">
+                     <pb n="2" facs="tcp:43979:4"/>
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 87.</bibl> He endeavours to per<g ref="char:EOLhyphen"/>ſwade the Reader that the <hi>immedi<g ref="char:EOLhyphen"/>ate</hi> and <hi>Inward</hi> Revelations were, in old time, the <hi>formal</hi> object of the Saints Faith.</q>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> His endeavour is very <hi>just:</hi> By the formal object he means the ſame thing, which, being con<g ref="char:EOLhyphen"/>ceived by the Underſtanding, <hi>by faith ſanctifies</hi> thoſe who receive it, and makes them like to God, <hi>immediately</hi> working in their Hearts.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 124.</bibl> But, ſays the <hi>Anti-Bar<g ref="char:EOLhyphen"/>claiſt;</hi> how can the perpetuity of of the promiſe of the ſpirit prove the uſe and neceſſity of freſh Reve<g ref="char:EOLhyphen"/>lations?</q>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> To renew our minds <hi>conti<g ref="char:EOLhyphen"/>nually</hi> by the Holy Ghoſt, we have <hi>con<g ref="char:EOLhyphen"/>tinual need of new Revelations,</hi> or of the operations of the Hol Ghoſt, revealing the ſanctifying Truth to us; which Revelation always <hi>agrees</hi> with the Holy Scriptures: Nevertheleſs <hi>often without any remembrance</hi> of what is written of it in our memories.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 156.</bibl> 
+                        <hi>Pſalm</hi> 34. 8. When he exhorts all the faithful <hi>to taſt and ſee how good the Lord is,</hi> I know not what the <hi>Apologiſt</hi> means, to apply theſe words ſo improperly; when the Kingly Prophet, in the ſame <hi>Pſalm,</hi> hath not made the leaſt mention of any Revelations he received of God, but rather of other bleſſings, during the time of his Exile from <hi>SA<g ref="char:V">Ʋ</g>L;</hi> which he truſting in God, was made partaker of: Whence he pronounces thoſe bleſſed, who, in all their afflictions, have learned to put their confidence in him.</q>
+                  </p>
+                  <pb n="3" facs="tcp:43979:4"/>
+                  <p> 
+                     <hi>Anſwer.</hi> Theſe words <hi>to taſte</hi> and <hi>to ſee,</hi> manifeſtly and undoubtedly ſignifie <hi>a ſenſation,</hi> or an actual <hi>Senſitive</hi> or <hi>Intellective</hi> knowledge of a thing preſent; <hi>viz. immediately</hi> influencing the Senſes of the Body or Mind, and not only, by the <hi>Teſtimony</hi> or <hi>hearſay</hi> of thoſe that <hi>have taſted</hi> and <hi>ſeen it.</hi> Such <hi>a ſenſation</hi> or <hi>immediate percepti<g ref="char:EOLhyphen"/>on</hi> of the divine ſweetneſs, cannot be effected but by an immediate and <hi>ſanctifying Operation of the Holy Ghoſt in our hearts.</hi> All ſuch Operations of the Holy Ghoſt are rightly called the <hi>Immediate Revelations</hi> of the <hi>Infinite light;</hi> namely, thoſe Illuminations, by which the darkneſs of our Minds is diſperſed, which hath hindred us from ſeeing thoſe divine Truths of<g ref="char:EOLhyphen"/>fered to us <hi>by the Holy Ghoſt</hi> (either in reading or hearing <hi>the Scriptures</hi> or without any remembrance of the things therein written) by an imme<g ref="char:EOLhyphen"/>diate ſight or ſenſation.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 158.</bibl> Perhaps ſome difficulty may appear in what the Apologiſt here as well as elſewhere chiefly urges: when <hi>John</hi> 1. 5, 6. after other things, writ, <hi>It is the ſpirit which beareth witneſs, becauſe the ſpirit is Truth:</hi> but if here we alſo rightly conſider the Mind of the Apoſtle in the Context (ſays our Learned Man) we ſhall con<g ref="char:EOLhyphen"/>clude that he meant <hi>nothing elſe</hi> but to engage his hearers to remem<g ref="char:EOLhyphen"/>ber, but that the Holy Ghoſt, <hi>&amp;c.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <hi>Anſwer. Nothing elſe!</hi> He would certainly have them call to mind that ſame thing which <hi>Robert Barclay</hi> would prove, <hi>viz.</hi> That we have
+<pb n="4" facs="tcp:43979:5"/> need of <hi>Immediate Revelation,</hi> or of <hi>the Teſtimony of the Holy Ghoſt in our hearts,</hi> that we may conſtantly em<g ref="char:EOLhyphen"/>brace and practice the Evangelical Truth; becauſe the <hi>Spirit</hi> is the <hi>Fountain</hi> of all Truth; inſomuch, that there can be no <hi>true</hi> and <hi>living</hi> know<g ref="char:EOLhyphen"/>ledge of the Heavenly Truth, <hi>but what is deriv'd from that Holy Spirit working in our hearts.</hi> All knowledge of divine things, that the ungodly or deſpiſers of true ſanctity have, is nothing, in effect, but what the A<g ref="char:EOLhyphen"/>poſtle calls τὴν Μόρφωσιν τῆς Γνώσεως, the Form, Image or Shadow of know<g ref="char:EOLhyphen"/>ledge, <hi>Rom.</hi> 2. 20.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="lat" type="version">
+                  <pb n="4" facs="tcp:43979:5"/>
+                  <head>De Scripturis.</head>
+                  <p>
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 164.</bibl> Haec verba <hi>R. Barclaii</hi> re<g ref="char:EOLhyphen"/>citantur: <hi rend="margSglQuotes">Quoniam ſolummodo ſunt declaratio fontis, &amp; non ip<g ref="char:EOLhyphen"/>ſe fons, ideo non exiſtimandae ſunt principalis origo omnis veritatis, &amp; cognitionis, nec adaequata prima<g ref="char:EOLhyphen"/>ria Regula Fidei, &amp; Morum, licet cum dent verum, &amp; fidele Teſtimo<g ref="char:EOLhyphen"/>nium primae originis, ſint &amp; poſ<g ref="char:EOLhyphen"/>ſint exiſtimari Regula ſecundaria, ſubordinata Spiritui.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> De quibus <hi>R. Barclaii</hi> ver<g ref="char:EOLhyphen"/>bis ſic explico Animi mei ſententiam, Si per <hi>Spiritum Divinum</hi> intelligimus <hi>Deum,</hi> Tertiam S. TRINITATIS Perſonam, mihi videtur non licere nobis Eum appallere <hi>Regulam Fidei, &amp; Morum;</hi> cum <hi>Regula Fidei</hi> ſit iſtud <hi>Inſtrumentum,</hi> quo Recte Inveſtiga<g ref="char:EOLhyphen"/>mus quid ſit <hi>Fidei Chriſtianae Objectum,</hi>
+                     <pb n="5" facs="tcp:43979:5"/> ſeu quid ſit id, quod a nobis Creden<g ref="char:EOLhyphen"/>dum CHRISTUS Propoſuit: Sed per <hi>Spiritum Divinum</hi> etiam ſignifica<g ref="char:EOLhyphen"/>ri poſſit noſtra <hi>Spiritus Divini</hi> Parti<g ref="char:EOLhyphen"/>cipatio, quo omnis anima Rationa<g ref="char:EOLhyphen"/>lis praedita eſt per inſitam in Natura ſua DEI OPT. MAX. <hi>Ideam:</hi> Hoc ſen ſu recte dicendum eſt <hi>Spiritum</hi> eſſe Principalem, ſeu Primariam Fidei Regulam, cui ipſae <hi>Scripturae</hi> Subor<g ref="char:EOLhyphen"/>dinantur: Nam eatenus tantum ſen<g ref="char:EOLhyphen"/>ſum earum Divinum eſſe Percipimus, quatenus ejus <hi>Congruentiam</hi> ſentia<g ref="char:EOLhyphen"/>mus cum illa, quam ipſe Deus Ani<g ref="char:EOLhyphen"/>mis noſtris indidit, Eſſentiae Divinae <hi>Idea.</hi> Placet mihi admodum haec <hi>Roberti Barclaii</hi> Proteſtatio, quam <hi>p.</hi> 226. recitat Ejus doctiſſimus Adver<g ref="char:EOLhyphen"/>ſarius. <q rend="margSglQuotes">Secum ſuis Doctrinas, &amp; Mores ſuos libentiſſime Examini ea<g ref="char:EOLhyphen"/>rum <hi>(S. Scripturarum)</hi> concedere, &amp; hoc tanquam poſitivum, &amp; cer<g ref="char:EOLhyphen"/>tum admittere ex animo principi<g ref="char:EOLhyphen"/>um, ut quodcunque quis praedicans ſe <hi>Spiritu</hi> duci, contrarium Scriptu<g ref="char:EOLhyphen"/>rae perpetrat, deluſio, &amp; machina<g ref="char:EOLhyphen"/>tio Diabolica exiſtimetur.</q>
+                  </p>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <pb n="4" facs="tcp:43979:5"/>
+                  <head>Of the Scriptures.</head>
+                  <p>
+                     <q>
+                        <bibl>
+                           <hi>Anti-B. P.</hi> 164</bibl> are found Quoted theſe words of <hi>Robert Barclay:</hi> 
+                        <hi rend="margSglQuotes">Be<g ref="char:EOLhyphen"/>cauſe they are only a Declaration of the Fountain, and not the Fountain it ſelf, therefore they are not to be eſteem<g ref="char:EOLhyphen"/>ed the principal ground of all Truth, and knowledge, nor the Adequate Pri<g ref="char:EOLhyphen"/>mary Rule of Faith and Manners;</hi> tho' <hi>giving a true and faithful Testi<g ref="char:EOLhyphen"/>mony of the firſt foundation, they are and may be eſteemed a ſecondary Rule ſubordinate to the Spirit.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> I thus explain my ſenſe of theſe words of <hi>R. Barclay.</hi> If we, by the Holy Ghoſt, underſtand God, <hi>viz.</hi> the 3d. Perſon of the Holy Trini<g ref="char:EOLhyphen"/>ty, I confeſs we ought not to call him the <hi>Rule</hi> of <hi>Faith</hi> and <hi>Manners;</hi> ſince the Rule of Faith is that <hi>Inſtrument</hi> by which we <hi>rightly</hi> examine what is the object of the Chriſtian Faith, and
+<pb n="5" facs="tcp:43979:5"/> what that is, that Chriſt hath lay'd down for us to believe: But we may alſo underſtand by the <hi>Holy Ghoſt,</hi> our <hi>partaking of the divine Spirit,</hi> with which <hi>every</hi> Rational Soul is indued, by an <hi>Idea</hi> of the moſt great and moſt good God, <hi>ingrafted</hi> in its nature: In which ſenſe, we, <hi>by right, ought to ſay the ſpirit is the Principal or Chief Rule of our Faith, to which the Scriptures themſelves are ſubordinate.</hi> For we only perceive they carry a divine ſenſe as far as we feel their congruity with the Idea or Impreſſion of that divine Being, which God himſelf hath fixed in our hearts. <hi>R. Barclay</hi>'s Proteſtation, of which his learned Adverſary ſpeaks <hi>page</hi> 226, pleaſes me much. <hi>That he, with thoſe of his Religion, are willing their Doctrines and Practices ſhould be tried by the Holy Scriptures, and to admit, as a poſitive and certain Maxim, that whatſoever any do, pretending to be led by the Spi<g ref="char:EOLhyphen"/>rit, which is contrary to the Holy Scrip<g ref="char:EOLhyphen"/>tures, ſhould be reputed a deluſion of the Devil.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="lat" type="version">
+                  <head>De <g ref="char:V">Ʋ</g>niverſali Redemptione Chri<g ref="char:EOLhyphen"/>ſti, &amp; ſalutifero, necnon ſuper<g ref="char:EOLhyphen"/>naturali Lumine unumquemvis illuminante.</head>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 294.</bibl> De Praeſentia, vel Ineſ<g ref="char:EOLhyphen"/>ſentia, quae pertinet ad Regnum Naturae, adeoque omnibus in Uni<g ref="char:EOLhyphen"/>verſum Creaturis eſt Communis, hic minime Sermo eſt.</q>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> Certo certius eſt Τὸν ΛΌΓΟΝ in Omni Creatura <hi>Logica,</hi> ſeu
+<pb n="6" facs="tcp:43979:6"/> 
+                     <hi>Rationali</hi> Ineſſe Peculiari etiam ineſ<g ref="char:EOLhyphen"/>ſendi modo, non eo tantum, quo in reliquis Ineſt Creaturis.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>P.</hi> 301.</bibl> Quando <hi>Jacobus c.</hi> 1. 21. ad fideles &amp; regenitos ſcribens Verbum Dei vocat λόγον Ἔμφυτον, id eſt, Sermonem inſitum; quod non de alia inſitione, quam quae per publicam praedicationem, ac ejus receptionem facta eſt, intelligi de<g ref="char:EOLhyphen"/>bere ex integro patet Contextu.</q>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> Notandum eſt non Dixiſ<g ref="char:EOLhyphen"/>ſe <hi>Apoſtolum</hi> Λόγον Ἐμφυτον, ſed τὸν Λόγον Ἔμφυτον, Innuens nimirum Eun<g ref="char:EOLhyphen"/>dem eſſe, de quo loquitur S. <hi>Joannes,</hi> Ἐν Ἀρχῆ ῆ̔ν Ὁ Λόγος, hic ΛΟΓΟΣ eſt certe, cum Eſſentia ejus ſit Infinita, in Omnibus Creaturis, Modo Pecu<g ref="char:EOLhyphen"/>liari in Natura <hi>Rationali.</hi> Haec Sancti <hi>Jacobi</hi> verba Τὸν λόγον ἔμφυτον τὸν δυνάμενον σῶσαι τὰς Ἰυχὰς ὑμῶν, atque illa in Epiſtola ad <hi>Hebraeos</hi> Cap. 7. V. 25. Σώζειν εἰς τὸ παντελὲς δύναται, in<g ref="char:EOLhyphen"/>telligenda ſunt de Uno SALVA<g ref="char:EOLhyphen"/>TORE Noſtro, <hi>Lumine illo Vero Illuminante Omnem Hominem Venien<g ref="char:EOLhyphen"/>tem in Mundum.</hi> Ad Sententiam hanc noſtram ſtabiliendam ma<g ref="char:EOLhyphen"/>xime conducunt Verba iſta Viri Celeberrimi, Graecarum Litera<g ref="char:EOLhyphen"/>rum Peritiſſimi, DANIE<g ref="char:EOLhyphen"/>LIS HEINSII, <hi>Exercit. Sacr.</hi> Pag. 587. <q rend="margSglQuotes">Quid eſt Ἔμφυτον; certe τὸ φυσικὸς, certe quod Inna<g ref="char:EOLhyphen"/>tum eſt, &amp; Naturale: quod Εμπεφυκεναι Vulgo Dicimus. Quomodo Ἔμφυτον τὸ ἐ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> τῇ φύσει, <hi>Heſychius,</hi> I<g ref="char:EOLhyphen"/>demque τὸ ἐκ φύσεως, quod a Na<g ref="char:EOLhyphen"/>tura eſt, <hi>Suidas</hi> interpretatur.</q>
+                  </p>
+                  <pb n="7" facs="tcp:43979:6"/>
+                  <p>
+                     <q rend="margSglQuotes">Ex integro, (inquit Vir Doctiſſi<g ref="char:EOLhyphen"/>mus,) Patet Contextu non de alia Inſitione, quam quae per Publicam Praedicationem ac ejus Receptio<g ref="char:EOLhyphen"/>nem Facta eſt, Intelligi Debere. Integrum igitur Perſpiciamus Con<g ref="char:EOLhyphen"/>textum. Abjicientes Omnem Im<g ref="char:EOLhyphen"/>munditiam, &amp; Abundantiam Ma<g ref="char:EOLhyphen"/>litiae, in Manſuetudine ſuſcipite Inſitum Verbum, quod Poteſt Salvare Animas Veſtras.</q> Num ali<g ref="char:EOLhyphen"/>ter Suſcipere Poſſimus VERBUM, ſeu SERMONEM Illum, Qui in Principio, ſeu ab Aeterno erat DEUS, niſi Abjicientes om<g ref="char:EOLhyphen"/>nem Immunditiam &amp; Abun<g ref="char:EOLhyphen"/>dantiam Malitiae &amp; in Manſuetu<g ref="char:EOLhyphen"/>dine Corda Noſtra Illi Humi<g ref="char:EOLhyphen"/>lime Devoventes, qui Dicit, <q rend="margSglQuotes">Diſ<g ref="char:EOLhyphen"/>cite a Me, quia Manſuetus ſum, &amp; Humilis Corde? <hi>R. B.</hi> Hiſce Ver<g ref="char:EOLhyphen"/>bis quae recitat ejus Adverſarius p. 305.</q> Clariſſime Exprimit Sen<g ref="char:EOLhyphen"/>tentiam <hi>Vere Chriſtianam,</hi> nempe <q rend="margSglQuotes">Quod ij, quibus Evangelium Ex<g ref="char:EOLhyphen"/>ternum Praedicatum eſt, non Sal<g ref="char:EOLhyphen"/>ventur, niſi hujus Luminis, &amp; Gra<g ref="char:EOLhyphen"/>tiae Internis Operationibus.</q>
+                  </p>
+                  <p>Sententiae <hi>Orthodoxae</hi> de <hi>Innata</hi> DEI OPT. MAX. <hi>Notione, ſeu Idea</hi> ſunt maxime Conſentanea haec Carmina PYTHAGOREORUM, <hi>Vere Aurea:</hi>
+                  </p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <pb n="5" facs="tcp:43979:5"/>
+                  <head>Of Chriſts <g ref="char:V">Ʋ</g>niverſal and ſaving Redemption, as alſo of the ſu<g ref="char:EOLhyphen"/>pernatural light which enlight<g ref="char:EOLhyphen"/>ens all Men.</head>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>
+                           <hi>Anti-Bar. P.</hi> 294.</bibl> I ſhall not here ſpeak of that Inſtinct or <hi>Indwelling Principle</hi> which belongs to the king<g ref="char:EOLhyphen"/>dom of Nature, and therefore is com<g ref="char:EOLhyphen"/>mon to all Creatures in general.</q>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> 'Tis moſt certain that Τὸν ΛΌΓΟΝ is preſent in all Logical or
+<pb n="6" facs="tcp:43979:6"/> Reaſonable Creatures, and that in a <hi>more particular</hi> manner, and not on<g ref="char:EOLhyphen"/>ly as it is in other Creatures.</p>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <bibl>Page 301.</bibl> When <hi>James</hi> Chap. 1. 21. writing to the faithful and Regenerate, calls the word of God λόγον Ἔμφυτον <hi>(id eſt)</hi> the <hi>Ingraf<g ref="char:EOLhyphen"/>ted word;</hi> It appears by the whole context that we ought not to un<g ref="char:EOLhyphen"/>derſtand it of an other Grafting, than that which is made by a pub<g ref="char:EOLhyphen"/>lick preaching and reception of it.</q>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> We ought to note that the Apoſtle did not ſay λόγον Ἔμφυτον but τὸν λόγον Ἔμφυτον; intimating the ſame thing which St. <hi>John</hi> ſpeaks of Ἐν Ἀρχῆ ῆ̔ν ὁ Λόγος, ſince his Eſſence is infinite in all Creatures, but more particularly in <hi>Reaſonable</hi> ones. Theſe words of St. <hi>James</hi> τὸν λογον Ἔμφυτον τὸν Δυνάμενον Σῶσαι τ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ς Ἰυχὰς ὑμῶν, and thoſe in the Epiſtle to the <hi>Hebrews</hi> Chap. 7. v. 25. Σώζειν εἰς τὸ παντελὲς δύ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>αται, ought to be under<g ref="char:EOLhyphen"/>ſtood only of our Saviour, who is the <hi>True Light, Enlightening all Men com<g ref="char:EOLhyphen"/>ing into the World. DANIEL HEINSI<g ref="char:V">Ʋ</g>S</hi> a very learned and famous Man in the <hi>Greek</hi> Tongue <hi>Exercit. Sacr.</hi> confirms this our Senſe.</p>
+                  <p>Pag. 587. What is Ἔμφυτον? certainly τὸ φυσικος without doubt that which is <hi>Innate</hi> or born with us: And com<g ref="char:EOLhyphen"/>monly called Εμπεφυκέναι. <hi>Heſychius</hi> interprets Ἔμφυτον τὸ ἒκ φύσει after the ſame manner: And likewiſe <hi>Sui<g ref="char:EOLhyphen"/>das</hi> renders τὸ ἐκ ἐκ φύσεω, that which is <hi>Natural</hi> to us, or every one hath.</p>
+                  <p rend="margSglQuotes">
+                     <pb n="7" facs="tcp:43979:6"/>
+                     <q>It appears by the whole Contex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> (ſays our learned Man) we ought to underſtand it of no other <hi>Graf<g ref="char:EOLhyphen"/>ting,</hi> than what is made by a <hi>publick Ministry.</hi> Let us therefore view the whole paſſage, <hi>Laying aſide all Filthi<g ref="char:EOLhyphen"/>neſs and Superfluity of Naughtineſs, receive with meekneſs, the ingrafted word, which is able to ſave your Souls.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> Can we receive that word which beginning, or from Eternity, was <hi>God</hi> except we lay aſide <hi>all</hi> unclean<g ref="char:EOLhyphen"/>neſs and Superfluity of Naughtineſs, and in Meekneſs, humbly devote our Hearts to him, who ſays, <hi>learn of me who am Meek and Humble of Heart? R. B.</hi> by theſe words, which his Adverſary recites, page 305, moſt clearly declareth for Chriſti<g ref="char:EOLhyphen"/>an Doctrine, to wit, <hi>that thoſe to whom the Goſpel hath been outwardly preached, are not ſaved, but by the inward Operations of the Light and Grace.</hi>
+                  </p>
+                  <p>Theſe <hi>Pythagorean</hi> Verſes, <hi>which may truly be called Golden ones,</hi> agree much with the Orthodox Opinion of the Manifeſtation or <hi>Idea</hi> of the moſt rgeat and moſt good God, within us.</p>
+                  <p>
+                     <hi>Follow thy Guide</hi> within, <hi>the Birth</hi> Divine, <hi>Mans</hi> Rule <hi>the</hi> Glaſs <hi>where Sacred Truths do</hi> ſhine.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div xml:lang="lat" type="version">
+                  <head>
+                     <hi>De Imitatione Christi Lib.</hi> 3. <hi>C.</hi> 2.</head>
+                  <p rend="margSglQuotes">
+                     <q>Loquere Domine, quia audit Servus tuus: Non loquatur mihi <hi>Moyſes,</hi>
+                        <pb n="8" facs="tcp:43979:7"/> aut aliquis ex Prophetis: Sed tu potius loquere Domine Deus, Inſpi<g ref="char:EOLhyphen"/>rator, &amp; Illuminator Omnium Pro<g ref="char:EOLhyphen"/>phetarum: Quia tu ſolus ſine eis, potes me perfecte imbuere; illi autem ſine te nihil proficient. Poſ<g ref="char:EOLhyphen"/>ſunt quidem verba ſonare, ſed Spi<g ref="char:EOLhyphen"/>ritum non conferunt. Pulcherrime dicunt, ſed te tacente Cor non ac<g ref="char:EOLhyphen"/>cendunt. Literas tradunt, ſed tu ſenſum aperi, Myſteria pro ferunt, ſed reſeras Intellectum ſignatorum. Mandata edicunt, ſed tu juvas ad perficiendum. Viam oſtendunt, ſed tu confortas ad ambulandum. Illi foris tantum agunt, ſed tu Corda in<g ref="char:EOLhyphen"/>ſtruis, &amp; Illuminas. Illi exterius rigant, ſed tu foecunditatem donas. Illi clamant verbis, ſed tu auditui Intelligentiam tribuis.</q>
+                  </p>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <pb n="7" facs="tcp:43979:6"/>
+                  <head>
+                     <hi>The Imitation of Chriſt Book</hi> 3. <hi>C.</hi> 2.</head>
+                  <p rend="margSglQuotes">
+                     <q>
+                        <hi>Speak Lord, for thy Servant heareth Thee:</hi> Let neither <hi>Moſes,</hi> nor yet any
+<pb n="8" facs="tcp:43979:7"/> of the <hi>Prophets,</hi> ſpeak to me; but do Thou <hi>rather</hi> ſpeak, O Lord my God, who art the <hi>Illuminator</hi> and In<g ref="char:EOLhyphen"/>ſpirer of all the Prophets: For thou, <hi>without them,</hi> canſt teach me <hi>perfectly:</hi> But they <hi>without thee,</hi> will profit me <hi>nothing.</hi> They indeed make their words ſound; but they cannot <hi>give them the Spirit.</hi> What they ſay is ex<g ref="char:EOLhyphen"/>cellent; but <hi>unleſs thou ſpeakeſt,</hi> they reach not the Heart. They give the <hi>Letter,</hi> but <hi>thou openeſt</hi> the Senſe. They ſpeak Myſteries; but <hi>thou un<g ref="char:EOLhyphen"/>lockeſt</hi> them. They proclaim thy commands; but thou <hi>helpeſt</hi> us to perform them. They ſhew us the way; but thou <hi>ſtrengthneſt</hi> us to walk therein. They only act <hi>without:</hi> thou <hi>Inſtructeſt</hi> and <hi>Illuminateſt the Heart.</hi> They water the <hi>outſide;</hi> but thou giveſt the <hi>fruitfulneſs.</hi> They ſpeak forth words; but thou giveſt us Ears to <hi>underſtand</hi> them.</q>
+                  </p>
+               </div>
+            </div>
+            <div type="prayers">
+               <div xml:lang="lat" type="version">
+                  <head>Liturg. Angl.</head>
+                  <p rend="margSglQuotes">
+                     <q>Omnipotens Deus, da nobis, quaeſumus, ut abjectis Operibus Tenebrarum, induamur Arma LUCIS in hac Mortali Vita, in qua Je<g ref="char:EOLhyphen"/>ſus Chriſtus Filius tuus cum magna Humi<g ref="char:EOLhyphen"/>litate ad nos viſitandos advenit, ut in ex<g ref="char:EOLhyphen"/>tremo Die, quo rediturus eſt cum Gloria Majeſtatis ſuae ad judicandos vivos &amp; mor<g ref="char:EOLhyphen"/>tuos, reſurgamus ad vitam immortalem, per eum, qui una tecum, &amp; cum Spiritu Sancto vivit, &amp; regnat in ſaecula ſaeculorum. <hi>Amen.</hi>
+                     </q>
+                  </p>
+                  <p rend="margSglQuotes">
+                     <q>Eccleſiam tuam, Benigne Domine, LU<g ref="char:EOLhyphen"/>CIS tuae coruſcantibus radijs illuſtra, quae<g ref="char:EOLhyphen"/>ſumus, ut beati Apoſtoli, atque Evange<g ref="char:EOLhyphen"/>liſtae <hi>Joannis</hi> illuminata Doctrinis, in via<g ref="char:EOLhyphen"/>rum tuarum LUCE ita ambulet, ut ad vitae aeternae LUCEM tandem per<g ref="char:EOLhyphen"/>veniat, per Jeſum Chriſtum, Dominum Noſtrum. <hi>Amen.</hi>
+                     </q>
+                  </p>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <head>Engliſh Liturgy.</head>
+                  <p rend="margSglQuotes">
+                     <q>Almighty God, grant we pray thee, that the works of darkneſs being <hi>laid aſide,</hi> we may be <hi>cloathed with the Armour of LIGHT,</hi> in this mortal life; in which Jeſus Chriſt thy Son came, with great humility, to viſit us; that we in the great day, when he ſhall re<g ref="char:EOLhyphen"/>turn with the Glory of his Majeſty to judge the living and the Dead, may riſe through him, to life immortal, who with thee and the Holy Ghoſt, lives and reigns forever and evermore, AMEN.</q>
+                  </p>
+                  <p rend="margSglQuotes">
+                     <q>Lord, bleſs thou thy Church, and adorn her with the bright Beams of <hi>thy LIGHT;</hi> we pray thee, enlighten her with the Doctrines of thy bleſſed Apoſtle and Evangeliſt <hi>John,</hi> that ſo <hi>walking in the LIGHT</hi> of thy ways, ſhe may at laſt come to the <hi>LIGHT</hi> of Eter<g ref="char:EOLhyphen"/>nal Life, through Jeſus Chriſt our Lord. AMEN<g ref="char:punc">▪</g>
+                     </q>
+                  </p>
+                  <pb facs="tcp:43979:7"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
